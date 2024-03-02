@@ -1,0 +1,78 @@
+h1{
+	text-align: center;
+}
+b{
+	 font-size: 30px;
+}
+table{
+	width:80%;
+}
+th {
+  height: 40px;
+  background-color: #ffff00;
+  font-size: 20px;
+}
+label{
+	font-size: 20px;
+}
+button{
+	background-color: #0000ff;
+}
+.content{
+	 background-color: #0ae8f7;
+	 padding:1px 10px 1px 10px;
+	 margin:0 0 50px 0;
+	 /* width:100%;*/
+}
+.content1{
+	 margin: auto;
+	 width: 60%;
+     border: 1px groove #524140;
+     padding: 10px;
+     background-color: #98f5b1;
+}
+.content2{
+	background-color: #fbff1f;
+	padding-right: 10px;
+	padding-left: 10px;
+	
+}
+.edit{
+  background-color: #051dfa;
+  color: black;
+  border: 3px solid green;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.delete{
+  background-color: #fa0c20;
+  color: black;
+  border: 3px solid green;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.view{
+  background-color: #00ff40;
+  color: black;
+  border: 3px solid green;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.home{
+	 background: #f20adb;
+	 }
+.add{
+	background: #cee6f0;
+}
+.edit1{
+	background-color: #eb678f;
+}
+.view1{
+	background: #f74551;
+}
